@@ -1,7 +1,6 @@
 "use strict"
 
 module.exports = {
-
     RandomChar: (num) => {
         let string = "dsgbjkdfnnfkl47469058970850hdbgd546";
         let str = '';
@@ -12,5 +11,4 @@ module.exports = {
         }
         return str;
     }
-
 }
